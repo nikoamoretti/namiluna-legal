@@ -1,0 +1,9 @@
+main { max-width: 680px; margin: 0 auto; padding: 0 20px 48px; }
+header { position: relative; }
+header .cartouche.vertical { position: absolute; top: 16px; right: 16px; }
+h1 { font-size: 30px; margin: 28px 0 6px; }
+h2 { font-size: 22px; margin: 30px 0 8px; }
+p, li { max-width: 62ch; }
+nav { display: flex; gap: 18px; margin: 18px 0 0; font-size: 15px; }
+.lang { margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--line); }
+footer { margin-top: 40px; }
